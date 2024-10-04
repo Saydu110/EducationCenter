@@ -10,6 +10,8 @@ namespace EdicationCenter1
     {
         static void Main(string[] args)
         {
+            Login log =  new Login();
+            log.LoginRun();
         }
     }
 }

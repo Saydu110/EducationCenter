@@ -1,0 +1,9 @@
+C:\GIthub\EducationCenter\EdicationCenter1\bin\Debug\EdicationCenter.mdf
+C:\GIthub\EducationCenter\EdicationCenter1\bin\Debug\EdicationCenter_log.ldf
+C:\GIthub\EducationCenter\EdicationCenter1\bin\Debug\EdicationCenter1.exe.config
+C:\GIthub\EducationCenter\EdicationCenter1\bin\Debug\EdicationCenter1.exe
+C:\GIthub\EducationCenter\EdicationCenter1\bin\Debug\EdicationCenter1.pdb
+C:\GIthub\EducationCenter\EdicationCenter1\obj\Debug\EdicationCenter1.csproj.AssemblyReference.cache
+C:\GIthub\EducationCenter\EdicationCenter1\obj\Debug\EdicationCenter1.csproj.CoreCompileInputs.cache
+C:\GIthub\EducationCenter\EdicationCenter1\obj\Debug\EdicationCenter1.exe
+C:\GIthub\EducationCenter\EdicationCenter1\obj\Debug\EdicationCenter1.pdb
